@@ -12,7 +12,7 @@
 
 Enables the Foundry File Picker as an option when picking Images / Media / Links for all TinyMCE editors, allowing for easy in-world image inserting
 
-![](./file picker.gif)
+![](./filepicker.gif)
 
 ## Changelog
 
