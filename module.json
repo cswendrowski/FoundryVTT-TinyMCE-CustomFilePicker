@@ -27,7 +27,7 @@
   "media": [
     {
       "type": "video",
-      "url": "https://github.com/cswendrowski/FoundryVTT-TinyMCE-CustomFilePicker/file picker.gif",
+      "url": "https://github.com/cswendrowski/FoundryVTT-TinyMCE-CustomFilePicker/raw/master/filepicker.gif",
       "loop": true
     }
   ]
