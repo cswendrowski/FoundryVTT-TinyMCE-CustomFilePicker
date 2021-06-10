@@ -17,5 +17,3 @@ Enables the Foundry File Picker as an option when picking Images / Media / Links
 
 ![](./filepicker.gif)
 
-## Changelog
-
