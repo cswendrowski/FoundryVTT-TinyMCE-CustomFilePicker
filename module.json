@@ -2,7 +2,7 @@
   "name": "tinymce-foundryfilepicker",
   "title": "TinyMCE Custom Foundry File Picker",
   "description": "Enables the Foundry File Picker as an option when picking Images / Media / Links for all TinyMCE editors, allowing for easy in-world image inserting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
@@ -15,6 +15,10 @@
       "patreon": "ironmoose"
     }
   ],
+  "deprecated": {
+    "coreVersion": "0.8.0",
+    "reason": "This was added to Foundry core."
+  },
   "esmodules": [
     "/scripts/module.js"
   ],
